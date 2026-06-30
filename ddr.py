@@ -85,7 +85,7 @@ st.markdown("""
 st.title("🤖 AI DDR Report Generator")
 
 st.caption(
-    "Generate Professional Detailed Defect Reports using AI"
+    "Generate Professional Detailed Diagnostic Reports using AI"
 )
 
 st.divider()
